@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Swash:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Swash&family=Metal&display=swap');
+* {box-sizing: border-box;}
+header {
+  margin:0;
+  text-align:center;
+  font-family:Cherry Swash;
+  padding: 10px 10px 10px 30px;
+  background-image: url(https://t3.ftcdn.net/jpg/06/05/74/02/360_F_605740294_G8mJrnxoGwN09DxQDtzEqIqUbKuhmRhJ.jpg);
+background-size: 100% auto;
+background-position: bottom;
+background-repeat: no-repeat;
+}
+h1 {
+color: antiquewhite;
+text-shadow: 3px 3px 3px purple;
+}
+nav  {
+  text-align:center;
+  margin: 0;
+  background-color: #001233;
+  font-family: Metal;
+  font-size: 1.5em;
+  padding: 5px 0; 
+}
+nav a{text-decoration:none;}
+nav a:link
+{color: #ffffff;}
+nav a:visited
+{color: #344873;}
+nav a:hover
+{color:#62929e}
+nav a{
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#wrapper {
+background-color: #eae0d5; 
+font-family: Cherry Swash ;
+width: 80%;
+margin: auto;
+margin-top:0px;
+}
+body {
+  background-color: black;
+  margin:0;
+  
+}
+footer {
+background-color: black; 
+color: #FFFFFF;
+text-align: center;
+margin:auto;
+float:bottom; 
+} 
+
+img{
+  float: right;
+  padding: 10px
+}
+main {
+padding: 10px 20px;
+}
