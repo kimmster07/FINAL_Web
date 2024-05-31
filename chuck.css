@@ -71,7 +71,7 @@ margin:0;
 } 
 img{
   float: right;
-  padding: 10px
+  padding: 10px;
 }
 main {
 padding: 10px 20px;
@@ -202,4 +202,10 @@ padding: 10px 20px;
       text-align:center;
       padding:.5rem 1rem 0;
     }
+    img {
+      width:250px;
+      height:auto;
+      padding: 0;
+      float:none;
+    }    
 }
